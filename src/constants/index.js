@@ -201,7 +201,7 @@ import {
       name: "Elangwe Jeb",
       designation: "Maketing Specialist",
       company: "Toronto Auto Group",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "",
     },
     /*{
       testimonial:
