@@ -180,11 +180,11 @@ import {
       ],
     },*/
     {
-      title: "Full stack Developer",
-      company_name: "Toronto Auto Group",
+      title: "Web Developer Intern",
+      company_name: "ICES Sarl",
       icon: tag,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - December 2024",
+      date: "Jan 2022 - December 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
